@@ -1,4 +1,4 @@
-# Techplement
+
 ## Cloud Internship (AWS) ☁️
 
 Welcome to the AWS Cloud Projects repository! This repository is dedicated to showcasing and documenting various projects related to Amazon Web Services (AWS). Here, you'll find different cloud architectures, deployments, and solutions built using AWS technologies.
